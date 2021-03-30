@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'birthdaymoneyroulette'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_746cb1b004a64d06beaf1195542bd63f }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_3322f5875b95492b989b3c645d12326f }}
         package: .
